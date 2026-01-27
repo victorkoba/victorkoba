@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Me chamo Victor! Sou estudante de C# e Javascript.
+  Olá 👋, Me chamo Victor! Sou estudante de CyberSegurança.
 
   - 🌱 Atualmente curso Análise de Desenvolvimento de Sistemas no SENAI <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
@@ -26,7 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-koba/)
 
 <!-- GithubStats -->
-![victorkoba GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![victorkoba GitHub stats](https://github-readme-stats.vercel.app/api?username=victorkoba&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
