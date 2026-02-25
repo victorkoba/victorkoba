@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Me chamo Victor! Sou estudante de CyberSegurança.
+  Olá 👋, Me chamo Victor!
 
   - 🌱 Atualmente curso Análise de Desenvolvimento de Sistemas no SENAI <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
@@ -17,9 +17,9 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Eu tenho 18 anos, atualmente moro no Brasil. Eu tenho nível de inglês avançado e experiência com MySQL, PHP, Python, IoT e o básico de Cloud. Eu também fui treinador de goleiros, que me ajudou a desenvolver importantes habilidades, como a comunicação, trabalho em equipe, resiliência e na resolução de problemas.
+  - 💬 Eu tenho 18 anos, atualmente moro no Brasil. Tenho nível de inglês intermediário e experiência com Python, JS, IoT, SQL e Cloud.
 
-  - ⚡ Eu gosto de jogar futebol, jogar jogos de video game e ler livros, de todos os tipos! Acredito que nossos interesses pessoais contribuem para uma percepção melhor das coisas e para a resolução de problemas.. \o/
+  - ⚡ Eu gosto de jogar futebol, jogar video game e ler livros, de todos os tipos! Acredito que nossos interesses pessoais contribuem para uma percepção melhor das coisas e para a resolução de problemas..
 </details>
 
 <!-- Links -->
@@ -40,12 +40,11 @@
   <div style="flex-basis: 48%;">
     <h3>Linguagens de Programação</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </div>
-  
+
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Ferramentas</h3>
