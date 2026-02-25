@@ -8,18 +8,18 @@
 <p>
   Olá 👋, Me chamo Victor!
 
-  - 🌱 Atualmente curso Análise de Desenvolvimento de Sistemas no SENAI.
+  - Atualmente curso Análise de Desenvolvimento de Sistemas no SENAI.
 
-  - 🔭 Estou em busca da minha primeira oportunidade. Meu sonho é poder ajudar pessoas com meu conhecimento.
+  - Estou em busca da minha primeira oportunidade. Meu sonho é poder ajudar pessoas com meu conhecimento.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+  <summary>Mais sobre mim</summary>
 
-  - 💬 Eu tenho 18 anos, atualmente moro no Brasil. Tenho nível de inglês intermediário e experiência com Python, JS, IoT, SQL e Cloud.
+  - Eu tenho 18 anos, atualmente moro no Brasil. Tenho nível de inglês intermediário e experiência com Python, JS, IoT, SQL e Cloud.
 
-  - ⚡ Eu gosto de jogar futebol, jogar video game e ler livros, de todos os tipos! Acredito que nossos interesses pessoais contribuem para uma percepção melhor das coisas e para a resolução de problemas..
+  - Eu gosto de jogar futebol, jogar video game e ler livros, de todos os tipos! Acredito que nossos interesses pessoais contribuem para uma percepção melhor das coisas e para a resolução de problemas..
 </details>
 
 <!-- Links -->
