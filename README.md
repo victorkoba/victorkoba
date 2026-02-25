@@ -15,7 +15,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>Mais sobre mim</summary>
+  <summary>🖥️ Mais sobre mim</summary>
 
   - Eu tenho 18 anos, atualmente moro no Brasil. Tenho nível de inglês intermediário e experiência com Python, JS, IoT, SQL e Cloud.
 
