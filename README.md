@@ -17,7 +17,7 @@
 <details>
   <summary>🖥️ Mais sobre mim</summary>
 
-  - Eu tenho 18 anos, atualmente moro no Brasil. Tenho nível de inglês intermediário e experiência com Python, JS, IoT, SQL e Cloud.
+  - Eu tenho 18 anos, atualmente moro no Brasil. Tenho nível de inglês intermediário e experiência com Python, JS, IoT, SQL e AWS.
 
   - Eu gosto de jogar futebol, jogar video game e ler livros, de todos os tipos! Acredito que nossos interesses pessoais contribuem para uma percepção melhor das coisas e para a resolução de problemas..
 </details>
