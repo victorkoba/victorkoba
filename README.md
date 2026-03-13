@@ -1,47 +1,14 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Fala Pessoal!</h1></summary>
-  </div>
+`Desenvolvedor BackEnd` . `Competidor Robótica Móvel SPSkills`
 
-<!-- Presentation -->
-<p>
-  Olá 👋, Me chamo Victor!
+Técnico em Desenvolvimento de Sistemas e cursando superior em Análise e Desenvolvimento de Sistemas (1°/4° semestre) na Faculdade SENAI Taubaté, apaixonado por tecnologia, esportes e minha família.
 
-  - Atualmente curso Análise de Desenvolvimento de Sistemas no SENAI.
+Contate me em: victorkoba08@gmail.com
 
-  - Estou em busca da minha primeira oportunidade. Meu sonho é poder ajudar pessoas com meu conhecimento.
-</p>
+### Stacks
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,docker,git)](https://skillicons.dev)
 
-<!-- Dropdown -->
-<details>
-  <summary>🖥️ Mais sobre mim</summary>
+### Linkedin
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/victorkoba/)
 
-  - Eu tenho 18 anos, atualmente moro no Brasil. Tenho nível de inglês intermediário e experiência com Python, JS, IoT, SQL e AWS.
-
-  - Eu gosto de jogar futebol, jogar video game e ler livros, de todos os tipos! Acredito que nossos interesses pessoais contribuem para uma percepção melhor das coisas e para a resolução de problemas..
-</details>
-
-<!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-koba/)
-
-<!-- Portfolio -->
-## Portfolio:
-- [HealthGuard](https://github.com/victorkoba/HealthGuard)
-- [Sistema de comunicação, receptor e emissor com infravermelho](https://github.com/victorkoba/comunicacao-receptor-emissor-contador-IIot-infravermelho)
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
-
-## Tecnologias:
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  </div>
+### Idiomas
+```🇧🇷 Português — Nativo``` · ```🇺🇸 English — intermediate```
