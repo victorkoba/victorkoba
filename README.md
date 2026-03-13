@@ -8,7 +8,7 @@ Contate me em: victorkoba08@gmail.com
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,docker,git)](https://skillicons.dev)
 
 ### Linkedin
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/victorkoba/)
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/victor-koba/)
 
 ### Idiomas
 ```🇧🇷 Português — Nativo``` · ```🇺🇸 English — intermediate```
