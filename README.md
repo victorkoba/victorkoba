@@ -5,7 +5,7 @@ Técnico em Desenvolvimento de Sistemas e cursando superior em Análise e Desenv
 Contate me em: victorkoba08@gmail.com
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,aws,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,aws,docker,git)](https://skillicons.dev)
 
 ### Linkedin
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/victor-koba/)
