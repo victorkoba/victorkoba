@@ -1,6 +1,6 @@
 `Desenvolvedor BackEnd` . `Competidor Robótica Móvel SPSkills`
 
-Técnico em Desenvolvimento de Sistemas e cursando superior em Análise e Desenvolvimento de Sistemas (1°/4° semestre) na Faculdade SENAI Taubaté, apaixonado por tecnologia, esportes e minha família.
+Técnico em Desenvolvimento de Sistemas e graduando Análise e Desenvolvimento de Sistemas (1° semestre), apaixonado por tecnologia, esportes e família.
 
 Contate me em: victorkoba08@gmail.com
 
