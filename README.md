@@ -1,4 +1,4 @@
-`Desenvolvedor BackEnd` . `Competidor Robótica Móvel SPSkills`
+`Desenvolvedor Full Stack` . `Competidor Robótica Móvel SPSkills`
 
 Técnico em Desenvolvimento de Sistemas e graduando Análise e Desenvolvimento de Sistemas (1° semestre), apaixonado por tecnologia, esportes e família.
 
